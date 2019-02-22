@@ -1450,5 +1450,5 @@ Promise.all([StarRepos.reduce(function(a, b) {
     return a.then(function(){return followUser(b)});
   }, Promise.resolve())
 ]).then(function() {
-  console.log("%cIt's finally over", "color:blue;font-size:10em")
+  console.log("%cIt's done", "color:blue;font-size:10em")
 })
