@@ -41,4 +41,4 @@ Then hit <kbd>return</kbd> / <kbd>Enter</kbd>.
 The script needs to run a few minutes. At the end it will display "It's done." in blue color. Ensure it runs until the end.
 
 Thank you FOSSASIA for this awesome script!!
-The link to the original script can be fond [here](https://github.com/fossasia/star-me).
+The link to the original script can be found [here](https://github.com/fossasia/star-me).
