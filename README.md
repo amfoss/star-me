@@ -1,7 +1,7 @@
 # Star-Me
 Starring is fun!
 
-The script in this repository connects developers automatically with FOSSASIA projects on GitHub. You need to run the script in your Chrome browser developer console.
+The script in this repository connects developers automatically with FOSS@Amrita projects on GitHub. You need to run the script in your Chrome browser developer console.
 
 # Steps
 
@@ -9,7 +9,7 @@ The script in this repository connects developers automatically with FOSSASIA pr
 Make sure that you are signed in your GitHub account, if not do so now!
 
 ## 2. Copy the Script
-Open star.user.js [at this link here](https://github.com/fossasia/star-me/blob/master/star.user.js) and copy the entire script.
+Open star.user.js [at this link here](https://github.com/amfoss/star-me/blob/master/star.user.js) and copy the entire script.
 
 ## 3. Open Developer Tools in Your Browser
 
@@ -34,7 +34,11 @@ Ensure you are still on a browser tab that has GitHub open.
 ## 5. Paste the Script
 Paste the script by pressing <kbd>ctrl</kbd>+<kbd>V</kbd> if you are on Windows or if you are on macOS press <kbd>⌘</kbd>+<kbd>V</kbd>.
 
+
 Then hit <kbd>return</kbd> / <kbd>Enter</kbd>.
 
 ## 6. Wait until the script is finished
-The script needs to run a few minutes. At the end it will display "Finally Over ;-)" in blue color. Ensure it runs until the end.
+The script needs to run a few minutes. At the end it will display "You have starred all amfoss repositories." in blue color. Ensure it runs until the end.
+
+Thank you FOSSASIA for this awesome script!!
+The link to the original script can be fond [here](https://github.com/fossasia/star-me).
