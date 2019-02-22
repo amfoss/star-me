@@ -38,7 +38,7 @@ Paste the script by pressing <kbd>ctrl</kbd>+<kbd>V</kbd> if you are on Windows 
 Then hit <kbd>return</kbd> / <kbd>Enter</kbd>.
 
 ## 6. Wait until the script is finished
-The script needs to run a few minutes. At the end it will display "You have starred all amfoss repositories." in blue color. Ensure it runs until the end.
+The script needs to run a few minutes. At the end it will display "It's done." in blue color. Ensure it runs until the end.
 
 Thank you FOSSASIA for this awesome script!!
 The link to the original script can be fond [here](https://github.com/fossasia/star-me).
